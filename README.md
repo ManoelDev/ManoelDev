@@ -1,4 +1,4 @@
-## Olá pessoal me chamo Maneol Andrade 👋
+## Olá pessoal me chamo Manoel Andrade 👋
 
 Pois bem me apaixonei recentemente por esse mundo da programação.<br/>
 No memento estudo java-cript na intençao de me tornar um proffisional Full-Stack 🤩
