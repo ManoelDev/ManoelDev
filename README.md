@@ -3,8 +3,8 @@
 Pois bem me apaixonei recentemente por esse mundo da programação.<br/>
 No memento estudo javascript na intenção de me tornar um profissional Full-Stack 🤩
 
- :rocket:  &nbsp; **Sobre trabalhos estou aberto a propostas** 😁
- <br/> 🙁 &nbsp; Estou estudando constantemente para poder colaborar em projetos Back-end e Front-end usando React, React.js, React Native e Node.js
+ :rocket:  &nbsp; **Acabei de embarcar no foguete da rocketser** (●'◡'●)
+ <br/> 😏 &nbsp; Estou estudando constantemente para poder evoluir e colaborar em projetos **Back-end e Front-end usando React, React.js, React Native e Node.js**
  <br/> 😛 &nbsp; Posso ajudar em Node.JS, Docker e mais algumas coisas de infra estrutura
  <br/> 🥰 &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Gosto muito de tecnologias, jogo os seguintes games (Ring Of Elysium, PUBG)
