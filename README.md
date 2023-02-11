@@ -1,16 +1,49 @@
+<br>
+
 ## Olá pessoal me chamo Manoel Andrade 👋
-
+<br>
 Pois bem me apaixonei recentemente por esse mundo da programação.<br/>
-No memento estudo javascript na intenção de me tornar um profissional Full-Stack 🤩
+<br>
+Sou desenvolvedor fullstack atuando no momento com javascript + typescript <br>
+Já trablhei como frelancer em projetos voltados a servidores privados de tibia utilizando PHP <br>
 
- :rocket:  &nbsp; **Acabei de embarcar no foguete da rocketser** (●'◡'●)
- <br/> 😏  &nbsp; Estou estudando constantemente para poder evoluir na minha carreira e vida pessoal
- <br/> 😎  &nbsp; Estou acioso e espero poder colaborar em projetos 
- <br/> 🖥  &nbsp; **Back-end e Front-end usando React, React.js, React Native e Node.js**
- <br/> 🥰  &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Gosto muito de tecnologias, jogo os seguintes games (Ring Of Elysium, PUBG)
- <br/> :mailbox_with_no_mail: &nbsp; Caso queira entrar em contato comigo:<br/><br/>
- [![Linkedin Badge](https://img.shields.io/badge/-ManoelAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoel-neto-a4b3b21b2/)](https://www.linkedin.com/in/manoel-neto-a4b3b21b2/) &nbsp; 
-[![Gmail Badge](https://img.shields.io/badge/-maguserv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maguserv@gmail.com)](mailto:maguserv@gmail.com)
+<div align='right'>
+  <a href="mailto:maguserv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/manoeldev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
+<hr>
+<div>
+  <div>
+    Languages: 
+    <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
+    <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
+    <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white />
+  </div>
+  
+  <br>
+  <div align='center'>
+              
+  ![ManoelDev stats](https://github-readme-stats.vercel.app/api?username=ManoelDev&hide='',issues&count_private=true&show_icons=true&theme=radical)
 
+       
+  </div>
+  
+<div>
+  <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
+  <img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
+  <img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white />
+  <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white />
+  <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white />
+  <img src=https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white />
+  <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
+  <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white />
+  <img src=https://img.shields.io/badge/Postgress-5849be?style=for-the-badge&logo=Postgress&logoColor=white />
+  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white />
+  <img src=https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white />
+  <img src=https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white />
+</div>
